@@ -1,0 +1,17 @@
+E:\Visual Studio Program Files\Visual Studio 2017\Projects\Visual C#\ODP连接Oracle\ODP连接Oracle\obj\Release\ODP连接Oracle.Properties.Resources.resources
+E:\Visual Studio Program Files\Visual Studio 2017\Projects\Visual C#\ODP连接Oracle\ODP连接Oracle\obj\Release\ODP连接Oracle.csproj.GenerateResource.cache
+E:\Visual Studio Program Files\Visual Studio 2017\Projects\Visual C#\ODP连接Oracle\ODP连接Oracle\obj\Release\ODP连接Oracle.csproj.CoreCompileInputs.cache
+E:\Visual Studio Program Files\Visual Studio 2017\Projects\Visual C#\ODP连接Oracle\ODP连接Oracle\obj\Release\ODP连接Oracle.csprojAssemblyReference.cache
+E:\Visual Studio Program Files\Visual Studio 2017\Projects\Visual C#\ODP连接Oracle\ODP连接Oracle\obj\Release\ODP连接Oracle.Form1.resources
+E:\Visual Studio Program Files\Visual Studio 2017\Projects\Visual C#\ODP连接Oracle\ODP连接Oracle\bin\Release\ODP连接Oracle.exe.config
+E:\Visual Studio Program Files\Visual Studio 2017\Projects\Visual C#\ODP连接Oracle\ODP连接Oracle\bin\Release\ODP连接Oracle.exe
+E:\Visual Studio Program Files\Visual Studio 2017\Projects\Visual C#\ODP连接Oracle\ODP连接Oracle\bin\Release\ODP连接Oracle.pdb
+E:\Visual Studio Program Files\Visual Studio 2017\Projects\Visual C#\ODP连接Oracle\ODP连接Oracle\bin\Release\Oracle.ManagedDataAccess.dll
+E:\Visual Studio Program Files\Visual Studio 2017\Projects\Visual C#\ODP连接Oracle\ODP连接Oracle\bin\Release\Oracle.ManagedDataAccessDTC.dll
+E:\Visual Studio Program Files\Visual Studio 2017\Projects\Visual C#\ODP连接Oracle\ODP连接Oracle\bin\Release\Oracle.ManagedDataAccessIOP.dll
+E:\Visual Studio Program Files\Visual Studio 2017\Projects\Visual C#\ODP连接Oracle\ODP连接Oracle\obj\Release\ODP连接Oracle.AboutBox1.resources
+E:\Visual Studio Program Files\Visual Studio 2017\Projects\Visual C#\ODP连接Oracle\ODP连接Oracle\obj\Release\ODP连接Oracle.csproj.CopyComplete
+E:\Visual Studio Program Files\Visual Studio 2017\Projects\Visual C#\ODP连接Oracle\ODP连接Oracle\obj\Release\ODP连接Oracle.exe
+E:\Visual Studio Program Files\Visual Studio 2017\Projects\Visual C#\ODP连接Oracle\ODP连接Oracle\obj\Release\ODP连接Oracle.pdb
+E:\Visual Studio Program Files\Visual Studio 2017\Projects\Visual C#\ODP连接Oracle\ODP连接Oracle\obj\Release\ODP连接Oracle.Search.resources
+E:\Visual Studio Program Files\Visual Studio 2017\Projects\Visual C#\ODP连接Oracle\ODP连接Oracle\obj\Release\ODP连接Oracle.Login.resources

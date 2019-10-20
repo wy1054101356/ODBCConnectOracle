@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Workflow>  
+  <Oracle> 
+    <table>monster</table>
+    <page>10</page>  
+    <OracleUser>system</OracleUser>  
+    <OraclePassword>123456</OraclePassword>  
+  </Oracle>  
+</Workflow>  

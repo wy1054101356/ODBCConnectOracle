@@ -1,0 +1,6 @@
+E:\Visual Studio Program Files\Visual Studio 2017\Projects\Visual C#\ODP连接Oracle\ODP连接Oracle\obj\Debug\ODP连接Oracle.csprojAssemblyReference.cache
+E:\Visual Studio Program Files\Visual Studio 2017\Projects\Visual C#\ODP连接Oracle\ODP连接Oracle\obj\Debug\Cshape初学1.AboutBox1.resources
+E:\Visual Studio Program Files\Visual Studio 2017\Projects\Visual C#\ODP连接Oracle\ODP连接Oracle\obj\Debug\Cshape初学1.Form1.resources
+E:\Visual Studio Program Files\Visual Studio 2017\Projects\Visual C#\ODP连接Oracle\ODP连接Oracle\obj\Debug\ODP连接Oracle.Properties.Resources.resources
+E:\Visual Studio Program Files\Visual Studio 2017\Projects\Visual C#\ODP连接Oracle\ODP连接Oracle\obj\Debug\ODP连接Oracle.csproj.GenerateResource.cache
+E:\Visual Studio Program Files\Visual Studio 2017\Projects\Visual C#\ODP连接Oracle\ODP连接Oracle\obj\Debug\ODP连接Oracle.csproj.CoreCompileInputs.cache
